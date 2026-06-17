@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlowZen — Full Stack Habit Tracker
 
 AI-powered habit tracker. **One terminal, one command, full app.**
@@ -201,3 +202,7 @@ flowzen_full/
 | AI | Google Gemini 1.5 Flash |
 | Dev | concurrently (run both servers together) |
 
+=======
+# Habbit_Tracking
+FlowZen is an AI-powered Habit Tracker built with the MERN Stack that helps users create and monitor daily habits. It features secure authentication, streak tracking, progress analytics, and Gemini AI-based recommendations to improve productivity and maintain consistency in habit building.
+>>>>>>> 
